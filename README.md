@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Micronaut 3.7.5 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.7.5/guide/index.html)
@@ -24,3 +25,6 @@
 - [https://flywaydb.org/](https://flywaydb.org/)
 
 
+=======
+# updateapi
+>>>>>>> ac2fb634434c0ad20a0e8ca04381a069ecdf7ba3
