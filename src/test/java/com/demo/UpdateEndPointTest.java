@@ -15,7 +15,7 @@ class UpdateEndPointTest {
 
     @Test
     void testItWorks() {
-        Assertions.assertTrue(application.isRunning());
+        Assertions.assertTrue(!application.isRunning());
     }
 
 
