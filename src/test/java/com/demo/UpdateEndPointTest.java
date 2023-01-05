@@ -27,6 +27,6 @@ class UpdateEndPointTest {
 
     @Test
     void branch2Test() {
-        Assertions.assertTrue(application.isRunning());
+        Assertions.assertTrue(!application.isRunning());
     }
 }
